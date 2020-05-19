@@ -33,5 +33,12 @@
 				"Xethron\\MigrationsGenerator\\MigrationsGeneratorServiceProvider"
 			]
 		}
-	}
+	},
+	"repositories": [
+		{
+		    "url": "https://github.com/choxx/Laravel-4-Generators.git",
+		    "type": "vcs",
+		    "reference": "master"
+		}
+    ],
 }
